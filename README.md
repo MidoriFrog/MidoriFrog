@@ -1,6 +1,6 @@
 - 🐸 Hi, I’m @MidoriFrog
-- 👾 I’m interested in CSS, java & phyton
-- 🌱 I’m currently learning  java, c#
+- 👾 I’m interested in CSS,JS, Angular, Typscript.
+- 🌱 I’m currently learning   CSS and JS.
 - 🪲 I'm looking to collaborate on... I'm not sure yet
 - 📫 How to reach me...
 
